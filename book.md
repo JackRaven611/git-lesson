@@ -31,3 +31,7 @@ Forms and buttons are a very important part of the Web — these allow your site
 # Tables (TBD) 2
 
 Representing tabular data on a webpage in an understandable, accessible way can be a challenge. This module covers basic table markup, along with more complex features such as implementing captions and summaries.
+
+# Solving common HTML problems 1
+
+Use HTML to solve common problems provides links to sections of content explaining how to use HTML to solve very common problems when creating a webpage: dealing with titles, adding images or videos, emphasizing content, creating a basic form, etc.
